@@ -1,0 +1,20 @@
+{
+  "name": "zes.au.resman",
+  "displayName": "Au Resman for Unity3D (Deprecated)",
+  "version": "0.1.2",
+  "description": "Au Resman library for Unity3D (Deprecated)",
+  "keywords": [
+    "Script"
+  ],
+  "author": {
+    "name": "Stanley Hou",
+    "email": "houyuqing@hotmail.com",
+    "url": "https://github.com/zhihesoft/zes-unity-au-resman"
+  },
+  "category": "Libraries",
+  "publishConfig": {
+    "registry": "https://package.openupm.com"
+  },
+  "private": true",
+  "dependencies": {}
+}
